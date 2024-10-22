@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ifelprou.github.io/ifelprou.txt.gz
+Sitemap: https://ifelprou.github.io/app/ifelprou.txt.gz
+Sitemap: https://ifelprou.github.io/assets/ifelprou.txt.gz
+Sitemap: https://ifelprou.github.io/css/ifelprou.txt.gz
+Sitemap: https://ifelprou.github.io/includes/ifelprou.txt.gz
+Sitemap: https://ifelprou.github.io/item/ifelprou.txt.gz
+Sitemap: https://ifelprou.github.io/src/ifelprou.txt.gz
